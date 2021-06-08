@@ -1,0 +1,16 @@
+/home/kurdi/dotnet/Kurdi.DesignPatterns/Kurdi.DesignPatterns.BuilderPattern/obj/Debug/net5.0/Kurdi.DesignPatterns.BuilderPattern.csprojAssemblyReference.cache
+/home/kurdi/dotnet/Kurdi.DesignPatterns/Kurdi.DesignPatterns.BuilderPattern/obj/Debug/net5.0/Kurdi.DesignPatterns.BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/kurdi/dotnet/Kurdi.DesignPatterns/Kurdi.DesignPatterns.BuilderPattern/obj/Debug/net5.0/Kurdi.DesignPatterns.BuilderPattern.AssemblyInfoInputs.cache
+/home/kurdi/dotnet/Kurdi.DesignPatterns/Kurdi.DesignPatterns.BuilderPattern/obj/Debug/net5.0/Kurdi.DesignPatterns.BuilderPattern.AssemblyInfo.cs
+/home/kurdi/dotnet/Kurdi.DesignPatterns/Kurdi.DesignPatterns.BuilderPattern/obj/Debug/net5.0/Kurdi.DesignPatterns.BuilderPattern.csproj.CoreCompileInputs.cache
+/home/kurdi/dotnet/Kurdi.DesignPatterns/Kurdi.DesignPatterns.BuilderPattern/bin/Debug/net5.0/Kurdi.DesignPatterns.BuilderPattern
+/home/kurdi/dotnet/Kurdi.DesignPatterns/Kurdi.DesignPatterns.BuilderPattern/bin/Debug/net5.0/Kurdi.DesignPatterns.BuilderPattern.deps.json
+/home/kurdi/dotnet/Kurdi.DesignPatterns/Kurdi.DesignPatterns.BuilderPattern/bin/Debug/net5.0/Kurdi.DesignPatterns.BuilderPattern.runtimeconfig.json
+/home/kurdi/dotnet/Kurdi.DesignPatterns/Kurdi.DesignPatterns.BuilderPattern/bin/Debug/net5.0/Kurdi.DesignPatterns.BuilderPattern.runtimeconfig.dev.json
+/home/kurdi/dotnet/Kurdi.DesignPatterns/Kurdi.DesignPatterns.BuilderPattern/bin/Debug/net5.0/Kurdi.DesignPatterns.BuilderPattern.dll
+/home/kurdi/dotnet/Kurdi.DesignPatterns/Kurdi.DesignPatterns.BuilderPattern/bin/Debug/net5.0/ref/Kurdi.DesignPatterns.BuilderPattern.dll
+/home/kurdi/dotnet/Kurdi.DesignPatterns/Kurdi.DesignPatterns.BuilderPattern/bin/Debug/net5.0/Kurdi.DesignPatterns.BuilderPattern.pdb
+/home/kurdi/dotnet/Kurdi.DesignPatterns/Kurdi.DesignPatterns.BuilderPattern/obj/Debug/net5.0/Kurdi.DesignPatterns.BuilderPattern.dll
+/home/kurdi/dotnet/Kurdi.DesignPatterns/Kurdi.DesignPatterns.BuilderPattern/obj/Debug/net5.0/ref/Kurdi.DesignPatterns.BuilderPattern.dll
+/home/kurdi/dotnet/Kurdi.DesignPatterns/Kurdi.DesignPatterns.BuilderPattern/obj/Debug/net5.0/Kurdi.DesignPatterns.BuilderPattern.pdb
+/home/kurdi/dotnet/Kurdi.DesignPatterns/Kurdi.DesignPatterns.BuilderPattern/obj/Debug/net5.0/Kurdi.DesignPatterns.BuilderPattern.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Kurdi.DesignPatterns.FacadePattern/1.0.0": {
+        "runtime": {
+          "Kurdi.DesignPatterns.FacadePattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kurdi.DesignPatterns.FacadePattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
